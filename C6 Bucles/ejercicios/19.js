@@ -5,3 +5,4 @@ function sumarHastaN(n) {
 }
 
 module.exports = sumarHastaN;
+
